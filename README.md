@@ -13,4 +13,5 @@ A simple FastAPI backend project with user registration, JWT authentication, pas
 ## Run Project
 
 pip install -r requirements.txt
+
 uvicorn main:app --reload
